@@ -1,0 +1,1 @@
+This is polhek’s first git project!
